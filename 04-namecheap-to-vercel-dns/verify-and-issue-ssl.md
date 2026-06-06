@@ -1,6 +1,6 @@
 # Verify domain and issue SSL
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 Once nameservers propagate, Vercel verifies the domain and issues SSL automatically. This file covers what to check, and what to do if something's stuck.
 
@@ -58,5 +58,5 @@ If all three look right, you're done. Time to ship the rest of the site.
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

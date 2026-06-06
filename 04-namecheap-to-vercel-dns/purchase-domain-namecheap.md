@@ -1,6 +1,6 @@
 # Purchase a domain on Namecheap
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG). Time: ~10 minutes.
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG). Time: ~10 minutes.
 
 Skip if you already own a domain.
 
@@ -42,5 +42,5 @@ You now own the domain but it doesn't point anywhere. Next step: [point Namechea
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

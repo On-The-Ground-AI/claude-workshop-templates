@@ -1,6 +1,6 @@
 # 06 · Post-workshop guide
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 You've finished CW-1 or CW-2. Now what?
 
@@ -43,5 +43,5 @@ You've finished CW-1 or CW-2. Now what?
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

@@ -1,6 +1,6 @@
 # Deploy walkthrough — Claude Code → GitHub → Vercel
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG). Time: ~20 minutes assuming accounts are set up.
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG). Time: ~20 minutes assuming accounts are set up.
 
 The first time you go from "I have no code" to "live website on the internet." We do this in CW-2; this file is the written version.
 
@@ -95,5 +95,5 @@ See [`05-seo-aeo-geo`](../05-seo-aeo-geo/) for the structured pass we run before
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

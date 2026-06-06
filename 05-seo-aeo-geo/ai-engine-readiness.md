@@ -1,6 +1,6 @@
 # AI engine readiness — what ChatGPT, Claude, Perplexity actually cite
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 You want to be in the sentences that come out of AI engines when someone asks "best [your category] in Singapore" or "how do I [your service]." Here's what we know about how to get there in 2026.
 
@@ -82,5 +82,5 @@ You won't see AI citations day one. Most sites we've built start showing up in P
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

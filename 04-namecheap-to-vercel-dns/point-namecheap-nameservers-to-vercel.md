@@ -1,6 +1,6 @@
 # Point Namecheap nameservers at Vercel
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG). Time: ~5 minutes + 24h DNS propagation.
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG). Time: ~5 minutes + 24h DNS propagation.
 
 This is the core step. After this, Vercel owns the DNS for your domain and SSL issues automatically.
 
@@ -69,5 +69,5 @@ Try `https://www.yourdomain.com` — Vercel auto-redirects it to the non-www ver
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

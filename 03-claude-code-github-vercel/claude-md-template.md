@@ -1,6 +1,6 @@
 # CLAUDE.md template
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 Save this as `CLAUDE.md` in your repo root. Claude Code reads it automatically every conversation in this project.
 
@@ -72,5 +72,5 @@ Save this as `CLAUDE.md` in your repo root. Claude Code reads it automatically e
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

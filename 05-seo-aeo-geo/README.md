@@ -1,6 +1,6 @@
 # 05 · SEO + AEO + GEO
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 The three letters that decide whether your site gets found in 2026:
 
@@ -20,5 +20,5 @@ Roughly 80–90% of getting found by AI engines is still classic SEO done right.
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

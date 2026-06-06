@@ -1,6 +1,6 @@
 # 01 · First prompts cheatsheet
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 The first 20 prompts you'll actually reuse — split by course.
 
@@ -20,5 +20,5 @@ These prompts assume you've loaded `you.md` (your brand DNA file) — see [`02-b
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

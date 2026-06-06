@@ -1,6 +1,6 @@
 # 00 · Pre-workshop setup
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 Before the workshop day, get these five accounts set up cleanly. We want to spend the day building, not signing up. Each step is a separate file in this folder.
 
@@ -18,5 +18,5 @@ If you hit a wall, message Haojun on WhatsApp ([+65 9841 9481](https://wa.me/659
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

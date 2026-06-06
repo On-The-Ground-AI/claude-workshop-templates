@@ -1,6 +1,6 @@
 # Meta tags checklist
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 Every page on your site should have these meta tags. In Next.js App Router, you set them via the `Metadata` export.
 
@@ -82,5 +82,5 @@ A single 1200×630 `og-default.png` in `/public` is enough for v1. Later, genera
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

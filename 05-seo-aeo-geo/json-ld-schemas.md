@@ -1,6 +1,6 @@
 # JSON-LD schemas — the AEO moat
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 JSON-LD is how you tell Google + Bing + AI engines what your page is *about* in a structured way. This is the AEO foundation. Skip this and AI assistants can read your page but can't classify it.
 
@@ -170,5 +170,5 @@ Both should show your structured data parsed correctly with zero errors.
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

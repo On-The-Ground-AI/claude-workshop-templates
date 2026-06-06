@@ -20,4 +20,4 @@ If you have a suggestion, drop it here. PRs welcome.
 
 ---
 
-This repo is AI-generated content reviewed by Haojun Yong (On The Ground). We aim to reply within 5 business days. For tailored guidance see [ontheground.agency](https://www.ontheground.agency).
+This repo is AI-generated content reviewed by Haojun See (On The Ground). We aim to reply within 5 business days. For tailored guidance see [ontheground.agency](https://www.ontheground.agency).

@@ -1,6 +1,6 @@
 # 04 · Namecheap → Vercel DNS
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 Buy or point a domain at Namecheap, set the nameservers Vercel needs, verify, issue SSL. **We teach Namecheap + Vercel only — by design.** If you use another registrar or host, the principles transfer but you'll need to adapt these steps yourself.
 
@@ -25,5 +25,5 @@ It's fine. But we don't teach it — we stay narrow so the room time goes into b
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

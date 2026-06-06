@@ -1,6 +1,6 @@
 # Code prompts (CW-2)
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 10 prompts for Claude Code building your CW-2 website on Next.js + Vercel + Namecheap.
 
@@ -211,5 +211,5 @@ Don't refactor unrelated code. Don't change the design. Just fix the bug.
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

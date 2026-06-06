@@ -1,6 +1,6 @@
 # Sitemap and robots.txt
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 Two small files that punch above their weight. Get these right and Google + AI crawlers know exactly what to index.
 
@@ -127,5 +127,5 @@ All three should return 200 OK and look right.
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

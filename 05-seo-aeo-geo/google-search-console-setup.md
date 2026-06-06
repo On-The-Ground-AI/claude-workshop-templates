@@ -1,6 +1,6 @@
 # Google Search Console setup
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG). Time: ~10 minutes.
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG). Time: ~10 minutes.
 
 Search Console is Google's free tool to monitor indexing, search queries, and crawl issues. Setting it up at launch saves you a month of guessing.
 
@@ -67,5 +67,5 @@ Same idea, smaller share of search but matters for AI engines (ChatGPT search is
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

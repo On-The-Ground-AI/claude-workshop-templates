@@ -1,6 +1,6 @@
 # 02 · Brand brief template
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 Two templates — one for personal brand, one for business. Each is a five-question structure that becomes the file Claude auto-loads at the start of every session.
 
@@ -24,5 +24,5 @@ Two templates — one for personal brand, one for business. Each is a five-quest
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).

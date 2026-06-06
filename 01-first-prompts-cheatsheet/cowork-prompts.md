@@ -1,6 +1,6 @@
 # Cowork prompts (CW-1)
 
-> ⚠️ AI-generated · Reviewed by Haojun Yong (OTG).
+> ⚠️ AI-generated · Reviewed by Haojun See (OTG).
 
 10 prompts for Claude.ai working as your coworker — Gmail, Calendar, Drive connectors enabled.
 
@@ -201,5 +201,5 @@ Save as knowledge-[topic-slug].md and auto-load it when I ask about this topic.
 
 ---
 
-**Generated with Claude. Reviewed by Haojun Yong (On The Ground).**
+**Generated with Claude. Reviewed by Haojun See (On The Ground).**
 For tailored, hands-on guidance, see [ontheground.agency](https://www.ontheground.agency) or email [haojun@ontheground.agency](mailto:haojun@ontheground.agency).
