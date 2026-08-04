@@ -11,11 +11,18 @@ This is the core step. After this, Vercel owns the DNS for your domain and SSL i
 
    <!-- SCREENSHOT: vercel-domains-add.png -->
 
-3. Vercel will show you two options. Pick **Nameservers** (not "A Record" or "CNAME") — Vercel will display:
+3. Vercel will show you two options. Pick **Nameservers** (not "A Record" or "CNAME") — Vercel will display a pair of nameservers that looks like this:
    ```
-   ns1.vercel-dns.com
-   ns2.vercel-dns.com
+   ns1.vercel-dns-NNN.com
+   ns2.vercel-dns-NNN.com
    ```
+
+   > ⚠️ **Copy the exact pair Vercel shows you.** Vercel assigns a per-domain
+   > nameserver pair, so yours will have digits in it and will *not* be the same
+   > as anybody else's in the room. Older guides (including an earlier version of
+   > this one) hardcode `ns1.vercel-dns.com` / `ns2.vercel-dns.com` — enter those
+   > and your domain will never validate, with no useful error to tell you why.
+   > Copy from your own Vercel screen, every time.
 
    <!-- SCREENSHOT: vercel-nameservers-shown.png -->
 
@@ -30,11 +37,7 @@ This is the core step. After this, Vercel owns the DNS for your domain and SSL i
 
 3. Scroll to the **Nameservers** section. By default it's set to **Namecheap BasicDNS**.
 4. Change the dropdown to **Custom DNS**.
-5. Enter exactly:
-   ```
-   ns1.vercel-dns.com
-   ns2.vercel-dns.com
-   ```
+5. Paste the two nameservers **exactly as Vercel displayed them** — one per row. Copy and paste rather than retyping; a single wrong digit fails silently.
 6. Click the **green checkmark** to save.
 
    <!-- SCREENSHOT: namecheap-custom-dns.png -->
@@ -47,7 +50,7 @@ Check progress at [https://dnschecker.org](https://dnschecker.org):
 - Enter your domain.
 - Set type to **NS** (nameserver).
 - Click **Search**.
-- You want most regions to show `ns1.vercel-dns.com` + `ns2.vercel-dns.com`.
+- You want most regions to show the same nameserver pair Vercel gave you in Step 1.
 
    <!-- SCREENSHOT: dnschecker-ns.png -->
 
@@ -57,7 +60,7 @@ Once DNS propagates:
 
 1. Go back to Vercel **Settings** → **Domains**.
 2. Your domain status should flip from **Invalid Configuration** to **Valid Configuration** automatically.
-3. SSL issues automatically (Let's Encrypt). Takes 1–5 minutes.
+3. SSL issues automatically. Takes 1–5 minutes. (Vercel handles the certificate authority; you don't choose or configure one.)
 
 If it doesn't flip after 24 hours, click **Refresh** on the domain row in Vercel. If still failing, see [verify-and-issue-ssl.md](./verify-and-issue-ssl.md).
 

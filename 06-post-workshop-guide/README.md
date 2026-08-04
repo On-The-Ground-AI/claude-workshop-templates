@@ -6,7 +6,7 @@ You've finished CW-1 or CW-2. Now what?
 
 ## The next 7 days
 
-- **Re-read your `you.md` / `brand-brief.md`.** Edit anything that came out clearer in the room than what you'd written. Save.
+- **Re-read your `brand-brief.md`.** Edit anything that came out clearer in the room than what you'd written. Save.
 - **Run one of your three workflows.** Don't refactor. Don't redesign. Just run the inbox triage, the meeting prep, or the weekly summary you set up. Notice what's annoying. Tweak the prompt; not the schedule.
 - **Push one update to your CW-2 site.** Something small — a typo, a better headline, a new blog post. Confirm the GitHub → Vercel auto-deploy still works the way it did in the room.
 - **Join the alumni Discord.** Say hi. Share the URL of your site or the workflow you set up.
@@ -29,7 +29,7 @@ You've finished CW-1 or CW-2. Now what?
 
 ## Things people stop doing too early (don't)
 
-- Tweaking the `you.md` / `brand-brief.md`. It compounds. Update it whenever something changes.
+- Tweaking the `brand-brief.md`. It compounds. Update it whenever something changes.
 - Using the same 3–5 starter prompts. The whole point was these are the foundations; build on them.
 - Pushing code yourself instead of asking Claude. Claude Code is faster. Use it.
 - Checking Search Console. Once a week is the minimum.

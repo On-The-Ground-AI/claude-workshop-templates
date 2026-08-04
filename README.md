@@ -25,7 +25,7 @@ We teach **Claude Code + GitHub + Vercel + Namecheap** end-to-end — that's it.
 - **CW-1 Cowork Masterclass for Professionals** — full day, Claude.ai with Gmail/Calendar/Drive, long research and recurring task playbooks.
 - **CW-2 Claude Code for Business** — full day, build a real website with SEO/AEO/GEO baked in, Vercel + Namecheap end-to-end.
 
-Both S$800/seat. Claude Pro first month gifted. Alumni listed on [aigowhere.com](https://www.aigowhere.com).
+CW-1 is S$300/seat, CW-2 is S$350/seat. Online editions are half price. The five-session Build School cohort is priced separately. Claude Pro first month gifted. Alumni listed on [aigowhere.com](https://www.aigowhere.com).
 
 See [claudecodeworkshops.vercel.app](https://claudecodeworkshops.vercel.app).
 

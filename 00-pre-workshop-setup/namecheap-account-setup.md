@@ -22,7 +22,7 @@ If you already know what domain you want, you can buy it before the workshop. We
 
 - `.com`, `.co`, `.io`, `.sg`, `.ai` are common picks.
 - Typical price: US$8–60/year (`.ai` is more expensive; `.com` is the safest).
-- **Skip WhoisGuard add-on** decisions for now — Namecheap includes basic privacy free.
+- **Skip Domain Privacy add-on** decisions for now — Namecheap includes basic privacy free.
 
 ## What we'll do in the workshop
 

@@ -16,7 +16,7 @@ Scaffold a new Next.js 16 + TypeScript + Tailwind 4 project for my personal/busi
 
 Read CLAUDE.md and brand-brief.md for tone, target audience, and what we sell. Match the design described there. Use a single accent colour and one heading font.
 
-Push to GitHub at On-The-Ground-AI/[my-slug]. Set up the repo with a minimal README.
+Push to GitHub under my own account at [my-username]/[my-slug]. Set up the repo with a minimal README.
 ```
 
 **Output:** Working project, deployed locally, pushed to GitHub.
