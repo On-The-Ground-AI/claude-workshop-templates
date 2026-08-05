@@ -14,7 +14,7 @@ Buy or point a domain at Namecheap, set the nameservers Vercel needs, verify, is
 
 Two options exist when pointing a Namecheap domain at Vercel:
 
-1. **Use Vercel's nameservers** (`ns1.vercel-dns.com` + `ns2.vercel-dns.com`) — Vercel owns the DNS, you get free SSL, www-redirect, and zero ongoing maintenance. We recommend this.
+1. **Use Vercel's nameservers** (a per-domain pair Vercel shows you, like `ns1.vercel-dns-NNN.com`) — Vercel owns the DNS, you get free SSL, www-redirect, and zero ongoing maintenance. We recommend this.
 2. **Keep Namecheap's nameservers + add an A record / CNAME** — you keep DNS at Namecheap and add records pointing at Vercel. Useful if you have email or other services on the same domain.
 
 **For CW-2 graduates with no other DNS needs on the domain, go with option 1.** The walkthroughs in this folder assume option 1.

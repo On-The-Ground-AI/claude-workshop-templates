@@ -16,7 +16,7 @@ Once nameservers propagate, Vercel verifies the domain and issues SSL automatica
 
 ### "Invalid Configuration" persists after 24 hours
 
-- **Check propagation:** [dnschecker.org](https://dnschecker.org) → enter domain → type **NS** → confirm `ns1.vercel-dns.com` + `ns2.vercel-dns.com` show globally. If they don't, the Namecheap change didn't save. Go back to Domain List → Manage → Nameservers → re-enter and save.
+- **Check propagation:** [dnschecker.org](https://dnschecker.org) → enter domain → type **NS** → confirm the nameserver pair Vercel gave you shows globally (it looks like `ns1.vercel-dns-NNN.com`; the digits are specific to your domain). If they don't, the Namecheap change didn't save. Go back to Domain List → Manage → Nameservers → re-enter and save.
 - **Click Refresh** on the domain row in Vercel Settings → Domains.
 - **Wait another 6 hours** — some ISPs cache DNS aggressively.
 
@@ -48,7 +48,7 @@ curl -I https://yourdomain.com
 # Expect: HTTP/2 200, server: Vercel
 
 dig yourdomain.com NS +short
-# Expect: ns1.vercel-dns.com / ns2.vercel-dns.com
+# Expect: the exact pair Vercel showed you, e.g. ns1.vercel-dns-123.com
 
 dig yourdomain.com +short
 # Expect: an A record / Vercel IP

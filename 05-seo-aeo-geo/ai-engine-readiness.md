@@ -19,7 +19,7 @@ This is the single highest-leverage move. AI engines preferentially parse pages 
 
 ### 2. Pages with a clear answer in the opening 50 words
 
-AI engines look for a direct answer. Your page on "how to point a Namecheap domain at Vercel" should start with the answer ("Set custom nameservers to ns1.vercel-dns.com and ns2.vercel-dns.com…"), not a 300-word intro about DNS.
+AI engines look for a direct answer. Your page on "how to point a Namecheap domain at Vercel" should start with the answer ("Set custom nameservers to the pair Vercel shows you under Settings → Domains…"), not a 300-word intro about DNS.
 
 ### 3. Pages with FAQ schema
 

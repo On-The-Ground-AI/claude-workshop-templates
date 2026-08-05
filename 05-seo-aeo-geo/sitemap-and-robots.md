@@ -57,8 +57,9 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "ChatGPT-User", allow: "/" },
       { userAgent: "OAI-SearchBot", allow: "/" },
       { userAgent: "ClaudeBot", allow: "/" },
-      { userAgent: "Claude-Web", allow: "/" },
-      { userAgent: "anthropic-ai", allow: "/" },
+      { userAgent: "ClaudeBot", allow: "/" },
+      { userAgent: "Claude-User", allow: "/" },
+      { userAgent: "Claude-SearchBot", allow: "/" },
       { userAgent: "PerplexityBot", allow: "/" },
       { userAgent: "Perplexity-User", allow: "/" },
       { userAgent: "Google-Extended", allow: "/" },
@@ -69,7 +70,9 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "Meta-ExternalFetcher", allow: "/" },
     ],
     sitemap: `${BASE}/sitemap.xml`,
-    host: BASE,
+    // `host` is a Yandex-only directive and takes a bare hostname, not a URL.
+    // Omit it unless you specifically care about Yandex.
+    // host: "example.com",
   };
 }
 ```

@@ -21,7 +21,7 @@ Search Console is Google's free tool to monitor indexing, search queries, and cr
 
 7. **In Vercel** (since your nameservers point at Vercel):
    - Project → **Settings** → **Domains** → click on your domain.
-   - Find the **DNS Records** section.
+   - Find the **DNS Records** section. Note this is at **account/team** level in Vercel, not inside your project — if your domain uses Vercel's nameservers, open the domain from your team's Domains list rather than the project's Settings → Domains.
    - Add a new TXT record:
      - Name: `@`
      - Value: `google-site-verification=abc123...` (the full string from Google)
@@ -63,7 +63,7 @@ You'll get an email the moment something breaks.
 
 ## Bonus: Bing Webmaster Tools
 
-Same idea, smaller share of search but matters for AI engines (ChatGPT search is powered by Bing). Same domain verification flow at [https://www.bing.com/webmasters](https://www.bing.com/webmasters).
+Same idea, smaller share of search but still worth doing — several AI engines draw on non-Google indexes. (Older guides say ChatGPT search is Bing-powered; that's no longer accurate, though the reason to submit still stands.) Same domain verification flow at [https://www.bing.com/webmasters](https://www.bing.com/webmasters).
 
 ---
 

@@ -21,7 +21,7 @@ Save this as `CLAUDE.md` in your repo root. Claude Code reads it automatically e
 - MDX for blog posts (if used)
 - Hosted on Vercel — that's the only host we ship to
 - Domain at Namecheap, nameservers pointed at Vercel
-- Resend for any email handlers (no DB)
+- Resend for any email handlers. No database yet — add one when the app needs to remember something between visits (Build School session 5 covers choosing one). Don't state "no database" as a permanent constraint here; it stops Claude suggesting one when you actually need it.
 
 ## Files Claude should always read first
 
@@ -66,7 +66,7 @@ Save this as `CLAUDE.md` in your repo root. Claude Code reads it automatically e
 - `npm run dev` — local at :3000
 - `npm run build` — production build
 - `npm run lint` — ESLint
-- Pushes to master auto-deploy on Vercel
+- Pushes to main auto-deploy on Vercel
 - Preview deployments fire on every PR branch
 ```
 

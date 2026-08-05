@@ -16,7 +16,7 @@ Each prompt has:
 - **The output you'll get:** so you know it's working.
 - **Try-this-next:** the natural follow-up.
 
-These prompts assume you've loaded `you.md` (your brand DNA file) — see [`02-brand-brief-template`](../02-brand-brief-template) for that.
+These prompts assume you've loaded your `brand-brief.md` (your brand DNA file) — see [`02-brand-brief-template`](../02-brand-brief-template) for that. Some older material calls this file `you.md`; it's the same thing, and `brand-brief.md` is the name we use now.
 
 ---
 

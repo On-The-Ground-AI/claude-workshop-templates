@@ -18,7 +18,7 @@ Claude Pro is Anthropic's paid plan that unlocks higher rate limits, projects, a
 
 4. Select **Claude Pro** (~US$20/month). Enter your card details. Confirm.
 
-5. Verify Pro is active: the top-left of any chat should show **Claude Sonnet 4.6** (or the current default Pro model).
+5. Verify Pro is active: the top-left of any chat shows a model picker, and paid models are selectable. Don't check for a specific model name — Anthropic ships new ones regularly and any guide naming one goes stale within months.
 
 ## What Pro unlocks
 
@@ -29,7 +29,7 @@ Claude Pro is Anthropic's paid plan that unlocks higher rate limits, projects, a
 
 ## Don't yet sign up for Max
 
-Claude Max (~US$100/month) is great if you're a heavy user, but you can decide that after CW-1. Pro is enough for everyone walking in. CW-2 attendees who prefer Max will get more out of it on the day — but Pro is fine for v1.
+Claude Max (tiered pricing, above Pro) is great if you're a heavy user, but you can decide that after CW-1. Pro is enough for everyone walking in. CW-2 attendees who prefer Max will get more out of it on the day — but Pro is fine for v1.
 
 ## Gift reimbursement
 

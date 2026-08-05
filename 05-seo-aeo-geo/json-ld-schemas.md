@@ -134,7 +134,7 @@ export default function Page() {
     {
       "@type": "Question",
       "name": "What's the refund policy?",
-      "acceptedAnswer": { "@type": "Answer", "text": "100% minus the S$30 gift if cancelled more than 14 days before." }
+      "acceptedAnswer": { "@type": "Answer", "text": "Describe YOUR refund policy here — don't ship this example verbatim." }
     }
   ]
 }

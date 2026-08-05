@@ -20,7 +20,7 @@ Skip if you already own a domain.
    - `.ai` — most expensive (~US$60+/year), worth it if your brand is AI-focused.
 
 4. Add to cart. Namecheap will try to upsell:
-   - **WhoisGuard / Domain Privacy** — already included free; just confirm it's on.
+   - **Domain Privacy** (Namecheap retired the WhoisGuard name) — already included free; just confirm it's on.
    - **SSL Certificate** — **skip** (Vercel issues SSL for free).
    - **Premium DNS** — skip.
    - **Web hosting** — skip (Vercel does this).

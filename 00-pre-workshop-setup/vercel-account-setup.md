@@ -20,8 +20,8 @@ Vercel is the hosting platform we use to deploy your CW-2 website. Their free ti
 
 ## Free tier limits (more than enough)
 
-- Unlimited deployments.
-- 100 GB bandwidth per month.
+- Generous free allowances, metered per resource (deployments per day, bandwidth, build minutes, function usage).
+- Enough for everything in this workshop and a real small site. Check vercel.com/pricing for current numbers — they change, so this guide won't quote them.
 - Free SSL certificates on every domain.
 - Preview deployments for every commit.
 
@@ -36,9 +36,9 @@ If you blow past these limits, you have a real audience problem — a good probl
 
 ## Don't worry about
 
-- Vercel KV / Vercel Blob / Postgres — out of scope for CW-2.
+- Storage (Vercel Blob, or Neon Postgres and Upstash Redis via the Vercel Marketplace) — out of scope for the one-day CW-2. Build School session 5 is entirely about these. Note "Vercel KV" and "Vercel Postgres" are retired product names you'll still see in older tutorials.
 - Pro tier ($20/mo) — not needed for v1.
-- Edge functions or analytics — covered briefly, not the focus.
+- Analytics — covered briefly, not the focus. (You may see older guides steering you to "Edge Functions" for speed; the standard Node runtime is the right default now and Edge is not something you need to choose.)
 
 ---
 
