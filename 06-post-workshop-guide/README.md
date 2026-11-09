@@ -10,7 +10,6 @@ You've finished CW-1 or CW-2. Now what?
 - **Run one of your three workflows.** Don't refactor. Don't redesign. Just run the inbox triage, the meeting prep, or the weekly summary you set up. Notice what's annoying. Tweak the prompt; not the schedule.
 - **Push one update to your CW-2 site.** Something small — a typo, a better headline, a new blog post. Confirm the GitHub → Vercel auto-deploy still works the way it did in the room.
 - **Join the alumni Discord.** Say hi. Share the URL of your site or the workflow you set up.
-- **Update your aigowhere.com listing.** If you didn't finish it during the workshop, finish it now. This is your distribution.
 
 ## The next 30 days
 
